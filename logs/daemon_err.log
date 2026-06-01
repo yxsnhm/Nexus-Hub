@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "D:\NexusHub\nexus_daemon.py", line 227, in <module>
+    start_daemon()
+    ~~~~~~~~~~~~^^
+  File "D:\NexusHub\nexus_daemon.py", line 203, in start_daemon
+    print(f"\U0001f4c2 ¹¤×÷Ä¿Â¼: {PROJECT_DIR}", flush=True)
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'gbk' codec can't encode character '\U0001f4c2' in position 0: illegal multibyte sequence
