@@ -1,5 +1,0 @@
-Traceback (most recent call last):
-  File "D:\NexusHub\solo_api.py", line 44, in <module>
-    print("\U0001f504 SOLO API ·þÎñÆô¶¯...", flush=True)
-    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-UnicodeEncodeError: 'gbk' codec can't encode character '\U0001f504' in position 0: illegal multibyte sequence
